@@ -8,6 +8,7 @@ The only processing difference between the two maps is the subtraction of the Pl
 An independent geometric completion of Einstein’s field equations (analogous to Ampère’s completion of Maxwell’s equations) predicts large-angle correlations. Numerical evaluation of the predicted C(θ) from the modified theory is now in progress. Findings were negative for meaningful anti-correlations at 35deg.
 — cavem (@heath44044520)
 23 November 2025
+
 2 December 2025
 The Unification of Fundamental Scales via Geometric Completion
 

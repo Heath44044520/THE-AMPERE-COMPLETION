@@ -119,8 +119,8 @@ How to Run Validation
 
 Clone the Repository:
 
-git clone [YOUR_REPO_URL]
-cd [YOUR_REPO_NAME]
+git clone [https://github.com/Heath44044520/THE-AMPERE-COMPLETION]
+cd [THE-AMPERE-COMPLETION]
 
 
 Ensure Dependencies: This project requires numpy.
@@ -152,6 +152,14 @@ The complete mathematical derivations are detailed in the technical_report.md fi
 
 Author: Heath44044520
 Model Name: Ampère Completion Model (ACM)
+
+Physical Constant,Observed Value,Geometric Derivation,Final Deviation
+I. Dark Matter/Cosmology,MOND a0​,∝sin2(θDef​),<5%
+II. Strong Force,αs​,∝tan(θDef​)/(π/2),5.19%
+III. Muon g−2 Scale,Torsion Scalar Mϕ​,"∝f(θDef​,θTorsion​,Cgeom​)",0.76%
+IV. Hierarchy Problem,Higgs Mass MH​,∝v⋅sin2(θTorsion​)+Cgeom​​,0.28%
+V. Electron Mass,me​,∝v⋅exp(−XElectron​),1.42%
+VI. Koide Relation,K,∝32​⋅cos(θDef​)1​,1.54%
 
 OFFICIAL SUMMARY —  
 Title: THE AMPERE COMPLETION

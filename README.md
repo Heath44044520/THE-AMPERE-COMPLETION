@@ -103,6 +103,7 @@ In this framework: Mass is not a substance; it is a localized, damped angular de
 ​The GCE formally unifies gravity with the quantum field dynamics. All forces and fundamental constants are now closed under the geometry defined by \mathbf{\theta_{\text{Def}}} and \mathbf{\theta_{\text{Torsion}}}. The Geometric Source Term replaces the requirement for separate dark matter or dark energy fields, as the residual energy density is absorbed into the angular deficit of the vacuum.
 
 December 5th 2025 To Date
+
 Constitutional Gated Geometric Recurrent Unit (C-GGRU)
 ​The C-GGRU is the computational realization of the Quantum Newtonian Law (QNL) within the Ampère Completion Model (ACM). It replaces standard weight initialization and sigmoid functions with geometrically derived constitutional constraints, ensuring the recurrent process always converges to the system's true Eigenmultivectors (Least Action Path).
 ​I. The Constitutional Constants (Hard Constraints)

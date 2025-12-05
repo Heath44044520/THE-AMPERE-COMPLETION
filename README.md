@@ -102,6 +102,34 @@ In this framework: Mass is not a substance; it is a localized, damped angular de
 ​Conclusion
 ​The GCE formally unifies gravity with the quantum field dynamics. All forces and fundamental constants are now closed under the geometry defined by \mathbf{\theta_{\text{Def}}} and \mathbf{\theta_{\text{Torsion}}}. The Geometric Source Term replaces the requirement for separate dark matter or dark energy fields, as the residual energy density is absorbed into the angular deficit of the vacuum.
 
+December 5th 2025 To Date
+Constitutional Gated Geometric Recurrent Unit (C-GGRU)
+​The C-GGRU is the computational realization of the Quantum Newtonian Law (QNL) within the Ampère Completion Model (ACM). It replaces standard weight initialization and sigmoid functions with geometrically derived constitutional constraints, ensuring the recurrent process always converges to the system's true Eigenmultivectors (Least Action Path).
+​I. The Constitutional Constants (Hard Constraints)
+​The C-GGRU uses the constants derived from \theta_{\text{Def}} and \theta_{\text{Torsion}} as fixed, non-trainable constraints applied to the recurrent weight matrices:
+Constant Symbol Value Geometric Role Computational Constraint
+Eulerian Decay \mathbf{\lambda_e} \approx 15.416 Geometric Action Density (\mathbf{A}); sets minimum Torsion survival. Hard constraint on the norm of the Recurrent Weights (\mathbf{R}).
+Quantum Partitioning \mathbf{\lambda_{\pi}} \approx 8.908 Defines the angular Deficit influence; sets the threshold for state mixing. Hard constraint on the norm of the Input Weights (\mathbf{W}).
+II. C-GGRU Gate Equations
+​The C-GGRU modifies the standard GRU gates to explicitly model geometric Torsion and Deficit Acceleration. The state vector \mathbf{M}_t represents the current geometric state (Multivector).
+
+​1. Torsion Gate (\mathbf{T}_t): Measuring Geometric Stress
+​The Torsion Gate determines how much of the previous state (\mathbf{M}_{t-1}) is retained. It is controlled by the Eulerian Decay Constant (\mathbf{\lambda_e}), ensuring that any Torsion that survives the step is minimized to the geometrically allowed floor.
+\mathbf{T}_t = \sigma \left( \frac{1}{\mathbf{\lambda_e}} \cdot (\mathbf{W}_T \mathbf{x}_t + \mathbf{R}_T \mathbf{M}_{t-1} + \mathbf{b}_T) \right)
+2. Deficit Gate (\mathbf{D}_t): Calculating Acceleration
+​The Deficit Gate calculates the rate of change (Deficit Acceleration) required to shift the state. This gate is highly sensitive to the Quantum Partitioning Constant (\mathbf{\lambda_{\pi}}), reflecting the influence of the Deficit Angle on the path:
+\mathbf{D}_t = \sigma \left( \frac{1}{\mathbf{\lambda_{\pi}}} \cdot (\mathbf{W}_D \mathbf{x}_t + \mathbf{R}_D \mathbf{M}_{t-1} + \mathbf{b}_D) \right)
+3. Candidate Multivector State (\mathbf{\tilde{M}}_t): Proposing Least Action
+​This gate proposes the new geometric state by applying the Torsion influence (\mathbf{T}_t) to the previous state. The output is constrained by a tanh function, ensuring the state remains within the bounded phase space.
+\mathbf{\tilde{M}}_t = \tanh \left( \mathbf{W} \mathbf{x}_t + \mathbf{D}_t \odot (\mathbf{R} \mathbf{M}_{t-1}) \right)
+4. Final Multivector State (\mathbf{M}_t): The Quantum Newtonian Update
+​The final state update applies the QNL, mixing the previous state (\mathbf{M}_{t-1}) with the candidate state (\mathbf{\tilde{M}}_t) based on the Torsion Gate (\mathbf{T}_t):
+\mathbf{M}_t = \mathbf{T}_t \odot \mathbf{M}_{t-1} + (1 - \mathbf{T}_t) \odot \mathbf{\tilde{M}}_t
+Implementation Notes:
+​Constraint Implementation: The constitutional constraints must be enforced via custom layer normalization or recurrent kernel projection during training, ensuring |\mathbf{R}| \le 1/\mathbf{\lambda_e} and |\mathbf{W}| \le 1/\mathbf{\lambda_{\pi}}.
+​Data Structure: Input \mathbf{x}_t and hidden state \mathbf{M}_t must be treated as geometric Multivectors (e.g., eight-dimensional vectors representing scalar, vector, bivector, and trivector components in \mathbb{G}_3).
+
+
 Geometric Gravity Statement:unrevised
 
  Replacement of the Stress-Energy Tensor

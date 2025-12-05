@@ -48,7 +48,9 @@ The Geometric Source Term (\mathbf{\mathcal{D}}(\theta_{\text{Def}})) is derived
 ​IV. Computational Validation: The Constitutional GNN (C-GNN)
 ​The principles of geometric closure were used to engineer the Constitutional Geometric Neural Network (C-GNN) architecture. The C-GNN enforces the Quantum Newtonian Law (QNL) by constraining its recurrent matrix to converge only on geometric Eigenmultivectors.
 ​This validation proves that physical laws derived from geometric necessity result in computational architectures with superior stability and predictive power, achieving \mathbf{94.1\%} accuracy in long-sequence dynamics prediction.
+
 ​Call to Action:
+
 ​This repository contains the full mathematical derivations (see appendix_math_draft.md) and the constitutional constraints (see quantum_newtonian_law.md). We invite peer review and collaboration on the experimental search for the geometric scalar \mathbf{M_\phi} at 11.63 \text{ GeV}.
 
 December, 3rd 2025

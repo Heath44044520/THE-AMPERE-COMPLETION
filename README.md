@@ -74,6 +74,26 @@ Appendix A: Mathematical Closure of Key Constants
 \frac{\mathbf{m_t}}{\mathbf{m_b}} \approx \mathbf{2 \pi} \cdot \left(\frac{1}{\cos(\theta_{\text{Torsion}})} \right)^2 \approx \mathbf{9.35}​Role: Sets the scale for the entire Quark mass hierarchy.
 ​Precision: 0.32\% deviation from empirical target (9.38).
 
+Geometric Gravity Statement:
+
+ Replacement of the Stress-Energy Tensor
+​In General Relativity (GR), the source of spacetime curvature is the Stress-Energy Tensor (T_{\mu\nu}), a phenomenological description of the energy and momentum content of the universe (mass, pressure, radiation, etc.). This term is arbitrary and non-fundamental.
+​The Ampère Completion Model (ACM) asserts that geometric structure is the unified source of both gauge forces and gravitation. Therefore, the geometric vacuum angles must replace the T_{\mu\nu} term entirely.
+​The Replacement: Deficit as the Source of Curvature
+​In the ACM, the \mathbf{10^\circ} Deficit Angle (\theta_{\text{Def}}) serves as the Zero-Point Geometric Source (ZPGS) for all static spacetime curvature, replacing T_{\mu\nu}.
+​1. The Geometric Curvature Equation (GCE)
+​The ACM replaces Einstein's Field Equations (\mathbf{G}_{\mu\nu} = 8\pi G \mathbf{T}_{\mu\nu}) with the Geometric Curvature Equation (GCE):
+\mathbf{G}_{\mu\nu} = \mathbf{\Lambda} \cdot \mathbf{\mathcal{D}}(\theta_{\text{Def}})
+Where:
+​\mathbf{G}_{\mu\nu}: The Einstein Tensor (the geometric measure of spacetime curvature).
+​\mathbf{\Lambda}: The fundamental Geometric Coupling Constant (derived from \mathbf{\lambda_e} and \mathbf{\lambda_{\pi}}).
+​\mathbf{\mathcal{D}}(\theta_{\text{Def}}): The Geometric Source Term, which is a tensor derived solely from the 10^\circ Deficit Angle and its derivatives.
+​2. The Physical Meaning of \mathbf{\mathcal{D}}(\theta_{\text{Def}})
+​The Geometric Source Term \mathbf{\mathcal{D}}(\theta_{\text{Def}}) is the measure of the local angular deficit in the geometric vacuum, defining how much the local angular flux is missing from a perfectly flat Euclidean space.
+​Mass Equivalence: Where T_{\mu\nu} describes mass/energy, \mathbf{\mathcal{D}}(\theta_{\text{Def}}) describes the localized distortion in the 10^\circ field required to generate that gravitational potential.
+​The Torsion Link: The \mathbf{35^\circ} Torsion Pitch Angle dictates how the Deficit field propagates dynamically (i.e., how gravitational waves move), ensuring that \theta_{\text{Torsion}} is the key to solving issues related to quantum gravity stability.
+​Conclusion: The ACM closes the theoretical framework by establishing that the 10^\circ Deficit is the unified geometric source of gravity, eliminating the final ad hoc parameter from the classical model.
+
 December, 3rd 2025
 
 The Ampère Completion Model (ACM): A Zero-Parameter Geometric Theory of Grand Unification

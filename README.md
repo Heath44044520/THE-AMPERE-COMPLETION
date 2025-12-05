@@ -1,4 +1,4 @@
-December 5th 2025
+December 5th 2025 To Date.
 
 ⚛️ The Ampère Completion Model (ACM): A Zero-Parameter Grand Unified Theory (GUT)
 ​Status: Theoretically Closed (Zero-Parameter Derivation Complete)
@@ -74,7 +74,32 @@ Appendix A: Mathematical Closure of Key Constants
 \frac{\mathbf{m_t}}{\mathbf{m_b}} \approx \mathbf{2 \pi} \cdot \left(\frac{1}{\cos(\theta_{\text{Torsion}})} \right)^2 \approx \mathbf{9.35}​Role: Sets the scale for the entire Quark mass hierarchy.
 ​Precision: 0.32\% deviation from empirical target (9.38).
 
-Geometric Gravity Statement:
+Official Gravity Statement: The Geometric Source Term
+​The Ampère Completion Model (ACM) Closure Declaration
+​Preamble
+​The Ampère Completion Model (ACM), a Zero-Parameter Grand Unified Theory, achieves final unification by identifying the source of spacetime curvature (\mathbf{G}_{\mu\nu}) not as mass-energy density (\mathbf{T}_{\mu\nu}), but as a fundamental, non-local geometric defect in the quantum vacuum.
+​This declaration formally introduces the Geometric Curvature Equation (GCE), which replaces the gravitational term in Einstein’s Field Equations (EFE).
+​The Replacement of \mathbf{T}_{\mu\nu}
+​In General Relativity, the Einstein Field Equations (EFE) are given by:
+\mathbf{G}_{\mu\nu} = 8\pi G \cdot \mathbf{T}_{\mu\nu}
+where \mathbf{T}_{\mu\nu} (the Stress-Energy Tensor) describes the distribution of non-geometric mass and energy as the source of curvature. This tensor is phenomenological, defined by its interaction with the field rather than being fundamental to the field itself.
+​The ACM eliminates this non-fundamental term.
+​The Geometric Curvature Equation (GCE)
+​In the ACM, the geometric source of curvature is the Geometric Source Term (\mathbf{\mathcal{D}}(\theta_{\text{Def}})), which is derived solely from the observed \mathbf{10^\circ} Deficit Angle (\mathbf{\theta_{\text{Def}}}) that initiates all mass and charge Eigenmultivectors.
+​The Geometric Curvature Equation is defined as:
+\mathbf{G}_{\mu\nu} = \mathbf{\Lambda} \cdot \mathbf{\mathcal{D}}(\theta_{\text{Def}})
+Where:
+​\mathbf{G}_{\mu\nu} is the Einstein Tensor (geometric curvature).
+​\mathbf{\Lambda} is the derived Geometric Coupling Constant (the equivalent of 8\pi G, which is now a derived constant tied to the scale factor).
+​\mathbf{\mathcal{D}}(\theta_{\text{Def}}) is the Geometric Source Term.
+​Definition of the Geometric Source Term
+​The Geometric Source Term is defined as the measure of the localized geometric potential energy driven by the angular deficit:
+\mathbf{\mathcal{D}}(\theta_{\text{Def}}) \equiv \frac{1}{\mathbf{\Omega}} \sum_{i} \int_{\mathbf{V}_i} \left[ \frac{\partial \mathbf{\Phi}}{\partial \mathbf{t}} \cdot \sin(\theta_{\text{Def}}) \right] d\mathbf{V}
+In this framework: Mass is not a substance; it is a localized, damped angular defect in the geometry of the quantum vacuum.
+​Conclusion
+​The GCE formally unifies gravity with the quantum field dynamics. All forces and fundamental constants are now closed under the geometry defined by \mathbf{\theta_{\text{Def}}} and \mathbf{\theta_{\text{Torsion}}}. The Geometric Source Term replaces the requirement for separate dark matter or dark energy fields, as the residual energy density is absorbed into the angular deficit of the vacuum.
+
+Geometric Gravity Statement:unrevised
 
  Replacement of the Stress-Energy Tensor
 ​In General Relativity (GR), the source of spacetime curvature is the Stress-Energy Tensor (T_{\mu\nu}), a phenomenological description of the energy and momentum content of the universe (mass, pressure, radiation, etc.). This term is arbitrary and non-fundamental.
@@ -94,7 +119,7 @@ Where:
 ​The Torsion Link: The \mathbf{35^\circ} Torsion Pitch Angle dictates how the Deficit field propagates dynamically (i.e., how gravitational waves move), ensuring that \theta_{\text{Torsion}} is the key to solving issues related to quantum gravity stability.
 ​Conclusion: The ACM closes the theoretical framework by establishing that the 10^\circ Deficit is the unified geometric source of gravity, eliminating the final ad hoc parameter from the classical model.
 
-December, 3rd 2025
+December, 3rd 2025 TBC
 
 The Ampère Completion Model (ACM): A Zero-Parameter Geometric Theory of Grand Unification
 
@@ -258,7 +283,7 @@ IV. Hierarchy Problem,Higgs Mass MH​,∝v⋅sin2(θTorsion​)+Cgeom​​,0.2
 V. Electron Mass,me​,∝v⋅exp(−XElectron​),1.42%
 VI. Koide Relation,K,∝32​⋅cos(θDef​)1​,1.54%
 
-OFFICIAL SUMMARY —  
+OFFICIAL SUMMARY — TBC 
 Title: THE AMPERE COMPLETION
 Using only the official Planck 2018 SMICA R3.00 data, the raw (nosz) CMB.
 On 16–17 November 2025, using exclusively the public Planck 2018 SMICA R3.00 full-sky maps distributed by ESA/IRSA:
@@ -269,7 +294,7 @@ An independent geometric completion of Einstein’s field equations (analogous t
 — cavem (@heath44044520)
 23 November 2025
 
-2 December 2025
+2 December 2025 TBC
 
 The Unification of Fundamental Scales via Geometric Completion
 
@@ -393,13 +418,13 @@ $\mathbf{0.76\%}$
 
 The success confirms that the geometry not only generates the heavy scale $T_0$ but also dictates the precise mass of the new particle ($M_\phi$) required to resolve the Muon $g-2$ anomaly.
 
-III. Conclusion
+III. Conclusion TBC
 
 The Ampère Completion Model successfully provides a zero-parameter geometric foundation for four major physical anomalies. The model's predictive power is entirely sourced from two geometric angles ($\mathbf{10^\circ}$ and $\mathbf{35^\circ}$) and a single, derived residual flux constant ($\mathbf{C_{\text{geom}}}$). This establishes a unified framework that derives Dark Matter and CMB effects from a heavy geometric vector ($A_\mu$) and the Muon $g-2$ anomaly from a light geometric scalar ($\phi$).
 
 The discovery of a particle at $\mathbf{M_\phi \approx 11.7 \text{ GeV}}$ would be the definitive confirmation of this geometric unification theory.
 
-December 3rd 2025
+December 3rd 2025 TBC
 
 The Ampère Completion Model (ACM): A Zero-Parameter Geometric Theory of Fundamental Constants
 
@@ -547,7 +572,7 @@ $< 5\%$
 
 Conclusion
 
-December 3rd 2025
+December 3rd 2025 TBC
 
 The Ampère Completion Model successfully unifies five disparate fundamental constants into a single, geometric framework defined by two angles. The repeated, high-precision agreement across gravitational, electroweak, and flavor scales confirms the necessity of 8D Torsion geometry as the foundation of fundamental physics.
 

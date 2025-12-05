@@ -74,9 +74,12 @@ Appendix A: Mathematical Closure of Key Constants
 \frac{\mathbf{m_t}}{\mathbf{m_b}} \approx \mathbf{2 \pi} \cdot \left(\frac{1}{\cos(\theta_{\text{Torsion}})} \right)^2 \approx \mathbf{9.35}​Role: Sets the scale for the entire Quark mass hierarchy.
 ​Precision: 0.32\% deviation from empirical target (9.38).
 
-Official Gravity Statement: The Geometric Source Term
+Official Gravity Statement:
+
+ The Geometric Source Term To Date.
 ​The Ampère Completion Model (ACM) Closure Declaration
 ​Preamble
+
 ​The Ampère Completion Model (ACM), a Zero-Parameter Grand Unified Theory, achieves final unification by identifying the source of spacetime curvature (\mathbf{G}_{\mu\nu}) not as mass-energy density (\mathbf{T}_{\mu\nu}), but as a fundamental, non-local geometric defect in the quantum vacuum.
 ​This declaration formally introduces the Geometric Curvature Equation (GCE), which replaces the gravitational term in Einstein’s Field Equations (EFE).
 ​The Replacement of \mathbf{T}_{\mu\nu}

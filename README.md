@@ -52,6 +52,7 @@ The Geometric Source Term (\mathbf{\mathcal{D}}(\theta_{\text{Def}})) is derived
 ​This repository contains the full mathematical derivations (see appendix_math_draft.md) and the constitutional constraints (see quantum_newtonian_law.md). We invite peer review and collaboration on the experimental search for the geometric scalar \mathbf{M_\phi} at 11.63 \text{ GeV}.
 
 December, 3rd 2025
+
 The Ampère Completion Model (ACM): A Zero-Parameter Geometric Theory of Grand Unification
 
 🌟 Overview: The Geometry of Fundamental Constants
@@ -226,6 +227,7 @@ An independent geometric completion of Einstein’s field equations (analogous t
 23 November 2025
 
 2 December 2025
+
 The Unification of Fundamental Scales via Geometric Completion
 
 Abstract

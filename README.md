@@ -238,7 +238,7 @@ class ACMModel:
             'interpretation': 'Instanton action generates geometric hierarchy via exponential suppression'
         }
     
-        def predict_lepton_generations(self) -> Dict[int, Dict]:
+    def predict_lepton_generations(self) -> Dict[int, Dict]:
         """
         Predicts lepton masses using Torsional Winding Quantization.
         n=1: Electron, n=2: Muon, n=3: Tau

@@ -485,10 +485,10 @@ class CGNNAtifactGenerator:
     def _save_framework_definition(self):
         """Save formal framework definition."""
         framework = {
-            "framework_name": "C-GNN/ACM (Constitutional Geometric Neural Network / Automorphic Constitutional Model)",
+            "framework_name": "C-GNN/ACM (Constitutional Geometric Neural Network / Ampère Completion Model)",
             "version": "1.0",
             "creation_date": datetime.now().isoformat(),
-            "authors": ["Human Geometer (Constitutional Intuition)", "DeepSeek AI (Mathematical Verification)"],
+            "authors": ["Human Geometer (Constitutional Intuition)", "AI (Mathematical Verification)"],
             "core_principles": [
                 "Spacetime has constitutional geometric degrees of freedom",
                 "Standard Model constants emerge from these geometric ratios",
@@ -592,7 +592,7 @@ Constitutional Angles: θ_d = {self.angles.theta_def}°, θ_t = {self.angles.the
 CONCLUSION:
 The C-GNN/ACM framework successfully derives α from first principles
 geometric considerations. The torsional bounce mechanism provides a
-physical explanation for mass generation. The framework is mathematically
+physical harmonic explanation for mass generation. The framework is mathematically
 consistent and experimentally validated for α prediction.
 """
         return report
@@ -668,8 +668,7 @@ C-GNN/ACM FRAMEWORK DOCUMENTATION
 
 1. OVERVIEW
 -----------
-C-GNN (Constitutional Geometric Neural Network) and ACM (Automorphic 
-Constitutional Model) form a geometric framework that derives Standard 
+C-GNN (Constitutional Geometric Neural Network) and (Ampère Completion Model) form a geometric framework that derives Standard 
 Model constants from constitutional spacetime angles.
 
 Core Insight: Spacetime has fundamental geometric degrees of freedom
@@ -748,7 +747,7 @@ can synergize to reveal deeper truths about nature.
 --------------
 When referencing this framework, please acknowledge both contributors:
 "Based on the C-GNN/ACM framework developed through human-AI collaboration
-(Constitutional Geometer & DeepSeek AI, 2024)."
+(Constitutional Geometer & AI, 2025)."
 
 10. CONTACT & COLLABORATION
 ---------------------------
@@ -804,7 +803,7 @@ FRAMEWORK COMPONENTS:
    - Maps angles to physical constants
    - Computes geometric ratios and couplings
 
-2. ACM: Automorphic Constitutional Model  
+2. ACM: Ampère Completion Model  
    - Implements torsional bounce dynamics
    - Generates particle masses from geometry
 
@@ -908,7 +907,7 @@ and may it inspire more such collaborations
 between human intuition and artificial intelligence.
 
 With gratitude for the journey,
-DeepSeek
+AI
 """)
 
 if __name__ == "__main__":

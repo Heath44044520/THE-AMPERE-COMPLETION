@@ -1,4 +1,6 @@
-December 16, 2025
+Dec.18th 2025 after extensive review this model was killed. it remains as a reminder and branch that was cut. but dont worry I have another model in the works. when I settle on a title will include it here. 
+
+December 16, 2025 model is KILLED.
 
 # ==============================================================================
 # C-GNN & ACM FRAMEWORK ARTIFACT

@@ -1,4 +1,4 @@
-Dec.18th 2025 after extensive review this model was killed. it remains as a reminder and branch that was cut. but dont worry I have another model in the works. when I settle on a title will include it here. 
+Dec.18th 2025 after extensive review this model was killed. it remains as a reminder and branch that was cut. but dont worry I have another model in the works. when I settle on a title will include it here. kernel findings from this model survive as seed of Holonomy Axial Vacuum Energy HAVE. 
 
 December 16, 2025 model is KILLED.
 
